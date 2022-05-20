@@ -1,10 +1,10 @@
-{
+n{
   "name": "dreamhouse-web-app",
   "description": "DreamHouse Web App",
   "keywords": [
     "app-cloud"
   ],
-  "repository": "https://github.com/YOUR_USERNAME/intro-to-heroku",
+  "repository": "https://github.com/vmehtani12/intro-to-heroku",
   "addons": [
     "heroku-postgresql"
   ]
